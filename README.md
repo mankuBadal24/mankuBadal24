@@ -12,6 +12,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayankbadal)  [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/mankuBadal24) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mankubadal24@gmail.com)
 
 ---
+## 📱 Download My App Works
+
+[![Download](https://img.shields.io/badge/Download-APK-brightgreen)](https://github.com/mankuBadal24/my_gallery_app_apk/raw/main/app-release.apk)
+
 
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
