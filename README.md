@@ -59,7 +59,7 @@
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mankuBadal24&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![Stats](https://github-readme-stats-rg4w.vercel.app/api?username=mankuBadal24&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com?user=mankuBadal24&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mankuBadal24&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
