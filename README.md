@@ -60,6 +60,22 @@
 ![Debugging](https://img.shields.io/badge/Debugging-8A2BE2?style=for-the-badge&logo=bugcrowd&logoColor=white)
 ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-5C2D91?style=for-the-badge&logo=postman&logoColor=white)
 ![Flutter Doctor](https://img.shields.io/badge/Flutter%20Doctor-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![bcrypt](https://img.shields.io/badge/bcrypt-00BFFF?style=for-the-badge&logo=lock&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Security](https://img.shields.io/badge/Security-FF0000?style=for-the-badge&logo=shield&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Web Development](https://img.shields.io/badge/Web_Development-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Mobile Development](https://img.shields.io/badge/Mobile_Development-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Software Development](https://img.shields.io/badge/Software_Development-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Backend Development](https://img.shields.io/badge/Backend_Development-000000?style=for-the-badge&logo=node.js&logoColor=white)
+![Frontend Development](https://img.shields.io/badge/Frontend_Development-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Full Stack Development](https://img.shields.io/badge/Full_Stack_Development-FF6F00?style=for-the-badge&logo=stackblitz&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-800080?style=for-the-badge&logo=diagram&logoColor=white)
+![APIs](https://img.shields.io/badge/APIs-FF4F00?style=for-the-badge&logo=fastapi&logoColor=white)
+![MVC Architecture](https://img.shields.io/badge/MVC_Architecture-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
 ---
