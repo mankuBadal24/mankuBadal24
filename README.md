@@ -8,7 +8,6 @@
 🤝 **Open to Collaborations** on Real-World Impactful Projects  
 💬 **Ask Me About** Backend Development, APIs, Mobile Apps & System Design  
 
-
 ---
 
 ## 🌐 Socials:
@@ -18,7 +17,6 @@
 ## 📱 Download My App Works
 
 [![Download](https://img.shields.io/badge/Download-APK-brightgreen)](https://github.com/mankuBadal24/my_gallery_app_apk/raw/main/app-release.apk)
-
 
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -78,7 +76,6 @@
 ![APIs](https://img.shields.io/badge/APIs-FF4F00?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MVC Architecture](https://img.shields.io/badge/MVC_Architecture-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-
 ---
 
 ## 📊 GitHub Stats:
@@ -86,12 +83,25 @@
 ![](https://streak-stats.demolab.com?user=mankuBadal24&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mankuBadal24&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
 ---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mankuBadal24&theme=radical&no-frame=false&margin-w=4)
 
+---
+## 🏆 Achievements
+
+![Hackathon](https://img.shields.io/badge/Hackathon%20Winner-ffca28?style=for-the-badge&logo=google&logoColor=black)
+![Coding](https://img.shields.io/badge/Coding%20Competitions-4285F4?style=for-the-badge&logo=leetcode&logoColor=white)
+![Business Quiz](https://img.shields.io/badge/Business%20Quiz%202nd%20Runner%20Up-0A66C2?style=for-the-badge&logo=google-scholar&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source%20Contributor-34A853?style=for-the-badge&logo=github&logoColor=white)
+
+- 🥇 **Hackathon Winner (Smart India Hackathon - College level, Hi-Tech College)**  
+- 🏅 **Business Quiz - 2nd Runner Up (Sunderdeep College)**  
+- 👨‍💻 **Participated in Hacknovate (ABESIT)**  
+- 🚀 **Participated in Webathon (IMS Ghaziabad)**  
+- 🎯 **Flipkart Grid 6.0 – Participant**  
+- 📌 **Multiple Coding Competitions & Hackathons**
 
 ---
 
