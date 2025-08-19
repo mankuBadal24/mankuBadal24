@@ -2,12 +2,13 @@
 
 💻 **Full-Stack Developer** | **Java Enthusiast**  
 📱 **Flutter + Spring Boot Developer** | Mobile & Web Solutions  
-🤖 **Android Developer (Java/Kotlin)** | Native App Development
+🤖 **Android Developer (Java/Kotlin)** | Native App Development  
 🌐 **MERN Stack Developer** | Scalable & Modern Web Applications  
 🚀 **Passionate About Java, Coding & Software Development**  
 🌱 **Eager Learner** | Exploring AI/ML, Cloud & Microservices  
-🤝 **Open to Collaborations** on Real-World Impactful Projects  
-💬 **Ask Me About** Backend Development, APIs, Mobile Apps & System Design  
+🤝 **Open to Collaborations** | Real-World Impactful Projects  
+💬 **Ask Me About** | Backend Development, APIs, Mobile Apps & System Design  
+
 
 ---
 
