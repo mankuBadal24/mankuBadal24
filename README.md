@@ -2,6 +2,7 @@
 
 💻 **Full-Stack Developer** | **Java Enthusiast**  
 📱 **Flutter + Spring Boot Developer** | Mobile & Web Solutions  
+🤖 **Android Developer (Java/Kotlin)** | Native App Development
 🌐 **MERN Stack Developer** | Scalable & Modern Web Applications  
 🚀 **Passionate About Java, Coding & Software Development**  
 🌱 **Eager Learner** | Exploring AI/ML, Cloud & Microservices  
@@ -26,6 +27,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 ![DAEMON](https://img.shields.io/badge/Daemon%20Processes-grey?style=for-the-badge)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
