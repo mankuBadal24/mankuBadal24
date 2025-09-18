@@ -25,6 +25,7 @@
 
 
 ## 💻 Tech Stack:
+![Full Stack Development](https://img.shields.io/badge/Full_Stack_Development-FF6F00?style=for-the-badge&logo=stackblitz&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -78,7 +79,6 @@
 ![Software Development](https://img.shields.io/badge/Software_Development-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Backend Development](https://img.shields.io/badge/Backend_Development-000000?style=for-the-badge&logo=node.js&logoColor=white)
 ![Frontend Development](https://img.shields.io/badge/Frontend_Development-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Full Stack Development](https://img.shields.io/badge/Full_Stack_Development-FF6F00?style=for-the-badge&logo=stackblitz&logoColor=white)
 ![System Design](https://img.shields.io/badge/System_Design-800080?style=for-the-badge&logo=diagram&logoColor=white)
 ![APIs](https://img.shields.io/badge/APIs-FF4F00?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MVC Architecture](https://img.shields.io/badge/MVC_Architecture-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
