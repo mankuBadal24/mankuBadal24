@@ -11,6 +11,17 @@
 
 ---
 
+## 💼 Services I Provide
+
+![Full Featured App Development](https://img.shields.io/badge/Full_Featured_App_Development-00C853?style=for-the-badge&logo=android&logoColor=white)
+
+![Software Development](https://img.shields.io/badge/Software_Development_as_per_Need-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+![Features Upgrade](https://img.shields.io/badge/Features_Upgrade_in_Existing_Software-FF9800?style=for-the-badge&logo=upstash&logoColor=white)
+
+![Publish to Play Store](https://img.shields.io/badge/Publish_App_to_Play_Store-4285F4?style=for-the-badge&logo=google-play&logoColor=white)
+
+---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-badal/)    [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/mankuBadal24) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mankubadal24@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=00C853)](https://mankubadal24.github.io/My_portfolio/)
 
@@ -26,6 +37,11 @@
 
 ## 💻 Tech Stack:
 ![Full Stack Development](https://img.shields.io/badge/Full_Stack_Development-FF6F00?style=for-the-badge&logo=stackblitz&logoColor=white)
+![Google Play Store](https://img.shields.io/badge/Google_Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white)
+![GirlScript Summer of Code](https://img.shields.io/badge/GirlScript_Summer_of_Code-FF6F00?style=for-the-badge&logo=github-sponsors&logoColor=white)
+![Google Play Console](https://img.shields.io/badge/Google_Play_Console-4285F4?style=for-the-badge&logo=google-play&logoColor=white)
+![API Integration](https://img.shields.io/badge/API_Integration-FF4F00?style=for-the-badge&logo=fastapi&logoColor=white)
+![Backend Integration](https://img.shields.io/badge/Backend_Integration-000000?style=for-the-badge&logo=node.js&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
