@@ -37,6 +37,7 @@
 
 ## 💻 Tech Stack:
 ![Full Stack Development](https://img.shields.io/badge/Full_Stack_Development-FF6F00?style=for-the-badge&logo=stackblitz&logoColor=white)
+![Android Development](https://img.shields.io/badge/Android_Development-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Google Play Store](https://img.shields.io/badge/Google_Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white)
 ![GirlScript Summer of Code](https://img.shields.io/badge/GirlScript_Summer_of_Code-FF6F00?style=for-the-badge&logo=github-sponsors&logoColor=white)
 ![Google Play Console](https://img.shields.io/badge/Google_Play_Console-4285F4?style=for-the-badge&logo=google-play&logoColor=white)
@@ -65,7 +66,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Android Development](https://img.shields.io/badge/Android_Development-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
