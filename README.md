@@ -6,7 +6,7 @@
 🌐 **MERN Stack Developer** | Scalable & Modern Web Applications  
 🚀 **Passionate About Java, Coding & Software Development**  
 🌱 **Eager Learner** | Exploring AI/ML, Cloud & Microservices  
-🤝 **Open to Collaborations** | Real-World Impactful Projects  
+🤝 **Open Source Contributor @ GirlScript Summer of Code** 💪  
 💬 **Ask Me About** | Backend Development, APIs, Mobile Apps & System Design  
 
 ---
