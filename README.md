@@ -11,7 +11,6 @@
 
 ---
 
-
 ## 💼 Services I Provide
 
 ![Full Featured App Development](https://img.shields.io/badge/Full_Featured_App_Development-00C853?style=for-the-badge&logo=android&logoColor=white)
