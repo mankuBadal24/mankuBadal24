@@ -105,9 +105,9 @@
 ---
 
 ## 📊 GitHub Stats:
-![Stats](https://github-readme-stats-rg4w.vercel.app/api?username=mankuBadal24&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mankuBadal24&theme=radical&hide_border=false)](https://git.io/streak-stats)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mankuBadal24&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=mankuBadal24&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mankuBadal24&theme=radical&hide_border=false)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mankuBadal24&theme=radical&hide_border=false&layout=compact&langs_count=8)
 
 ---
 
