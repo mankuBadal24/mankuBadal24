@@ -117,9 +117,31 @@
 ---
 
 ## 📊 GitHub Stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=mankuBadal24&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mankuBadal24)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mankuBadal24&theme=radical&hide_border=false&layout=compact&langs_count=8)
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=mankuBadal24&show_icons=true&theme=radical&hide_border=true&count_private=true" 
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=mankuBadal24&theme=radical&hide_border=true" 
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mankuBadal24&layout=compact&theme=radical&hide_border=true&langs_count=8" 
+    height="150"
+  />
+</p>
+
 
 ---
 
