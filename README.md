@@ -1,13 +1,25 @@
-## 👋 Hey there! I'm **Mayank Badal**  
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C853&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Mayank+Badal+%F0%9F%91%8B;Full-Stack+Developer+%7C+Java+Specialist;Android+%26+Flutter+App+Developer;Building+Scalable+Apps+%26+Secure+APIs" 
+    alt="Typing SVG" 
+  />
+</p>
 
-💻 **Full-Stack Developer** | **Java Enthusiast**  
-📱 **Flutter + Spring Boot Developer** | Mobile & Web Solutions  
-🤖 **Android Developer (Java/Kotlin)** | Native App Development  
-🌐 **MERN Stack Developer** | Scalable & Modern Web Applications 
-🚀 **Passionate About Java, Coding & Software Development**  
-🌱 **Eager Learner** | Exploring AI/ML, Cloud & Microservices  
-🌍 **Open-Source Contributor at GirlScript Summer of Code (GSSoC)** — Contributing to real-world projects & community-driven code.  
-💬 **Ask Me About** | Backend Development, APIs, Mobile Apps & System Design  
+<h3 align="center">
+  💻 Full-Stack Developer | Java • Android • Flutter • MERN
+</h3>
+
+<p align="center">
+  <em>
+    I build scalable, secure, and production-ready mobile & web applications.
+  </em>
+</p>
+
+<p align="center">
+  🌍 Open-Source Contributor @ <strong>GirlScript Summer of Code (GSSoC)</strong><br/>
+  🌱 Exploring <strong>AI/ML, Cloud & Microservices</strong><br/>
+  💬 Ask me about <strong>Backend Development, APIs, Mobile Apps & System Design</strong>
+</p>
 
 ---
 
