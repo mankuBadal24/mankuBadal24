@@ -33,11 +33,12 @@
 
 ![Publish to Play Store](https://img.shields.io/badge/Publish_App_to_Play_Store-4285F4?style=for-the-badge&logo=google-play&logoColor=white)
 
----
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-badal/)    [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/mankuBadal24) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mankubadal24@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=00C853)]
-([https://mankubadal24.github.io/My_portfolio/](https://my-portfolio-m-iota.vercel.app/))
+## 🌐 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-badal/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mankuBadal24)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mankubadal24@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portfolio-m-iota.vercel.app/)
 
 
 ---
