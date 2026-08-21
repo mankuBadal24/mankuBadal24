@@ -117,35 +117,38 @@
 
 ---
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=FE428E&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Manku;Building+things+that+ship;Always+learning" alt="Typing SVG" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=mankuBadal24&label=Profile+Views&color=FE428E&style=flat-square" alt="Profile views" />
+  <a href="https://github.com/mankuBadal24?tab=followers"><img src="https://img.shields.io/github/followers/mankuBadal24?label=Followers&style=flat-square&color=FE428E&labelColor=141321" alt="Followers" /></a>
+  <a href="https://github.com/mankuBadal24?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/mankuBadal24?label=Stars&style=flat-square&color=F8D847&labelColor=141321" alt="Stars" /></a>
+</p>
+
+</div>
+
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=mankuBadal24&show_icons=true&theme=radical&hide_border=true&count_private=true" 
-    height="170"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=mankuBadal24&theme=radical&hide_border=true" 
-    height="170"
-  />
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mankuBadal24&show_icons=true&include_all_commits=true&count_privat        e=true&rank_icon=github&hide_border=true&border_radius=12&bg_color=141321&title_color=FE428E&text_color=A9FEF7&icon_color=F8D847" alt="GitHub stats" />
+<img height="165" src="https://streak-stats.demolab.com?user=mankuBadal24&hide_border=true&border_radius=12&background=141321&stroke=FE428E&ring=FE428E&fire=F8D847&currStreakLabel=A9FEF7&sideLabels=A9FEF7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B8B8B" alt="GitHub streak" />
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mankuBadal24&layout=compact&theme=radical&hide_border=true&langs_count=8" 
-    height="150"
-  />
-</p>
+<br /><br />
 
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mankuBadal24&layout=compact&langs_count=8&card_width=460&hide_border=true&border_radius=12&bg_color=141321&title_color=FE428E&text_color=A9FEF7&hide=html,css,scss" alt="Top languages" />
 
----
+<br /><br />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mankuBadal24&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mankuBadal24&bg_color=141321&color=A9FEF7&line=FE428E&point=F8D847&area=true&area_color=FE428E&hide_border=true&radius=12" alt="Contribution graph" />
 
+<br /><br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=mankuBadal24&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+
+</div>
 
 ---
 ## 🏆 Achievements
