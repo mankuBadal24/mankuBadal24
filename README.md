@@ -133,20 +133,44 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mankuBadal24&show_icons=true&include_all_commits=true&count_privat        e=true&rank_icon=github&hide_border=true&border_radius=12&bg_color=141321&title_color=FE428E&text_color=A9FEF7&icon_color=F8D847" alt="GitHub stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=mankuBadal24&hide_border=true&border_radius=12&background=141321&stroke=FE428E&ring=FE428E&fire=F8D847&currStreakLabel=A9FEF7&sideLabels=A9FEF7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B8B8B" alt="GitHub streak" />
+  <!-- GitHub Stats + Streak -->
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=mankuBadal24&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&border_radius=12&bg_color=141321&title_color=FE428E&text_color=A9FEF7&icon_color=F8D847"
+    alt="GitHub Stats"
+  />
 
-<br /><br />
+  <img
+    height="165"
+    src="https://streak-stats.demolab.com?user=mankuBadal24&hide_border=true&border_radius=12&background=141321&stroke=FE428E&ring=FE428E&fire=F8D847&currStreakLabel=A9FEF7&sideLabels=A9FEF7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B8B8B"
+    alt="GitHub Streak"
+  />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mankuBadal24&layout=compact&langs_count=8&card_width=460&hide_border=true&border_radius=12&bg_color=141321&title_color=FE428E&text_color=A9FEF7&hide=html,css,scss" alt="Top languages" />
+  <br><br>
 
-<br /><br />
+  <!-- Top Languages -->
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mankuBadal24&layout=compact&langs_count=8&card_width=460&hide_border=true&border_radius=12&bg_color=141321&title_color=FE428E&text_color=A9FEF7&hide=html,css,scss"
+    alt="Top Languages"
+  />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mankuBadal24&bg_color=141321&color=A9FEF7&line=FE428E&point=F8D847&area=true&area_color=FE428E&hide_border=true&radius=12" alt="Contribution graph" />
+  <br><br>
 
-<br /><br />
+  <!-- Contribution Graph -->
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mankuBadal24&bg_color=141321&color=A9FEF7&line=FE428E&point=F8D847&area=true&area_color=FE428E&hide_border=true&radius=12"
+    alt="Contribution Graph"
+  />
 
-<img src="https://github-profile-trophy.vercel.app/?username=mankuBadal24&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+  <br><br>
+
+  <!-- GitHub Trophies -->
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=mankuBadal24&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"
+    alt="GitHub Trophies"
+  />
 
 </div>
 
