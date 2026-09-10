@@ -1,3 +1,4 @@
+
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C853&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Mayank+Badal+%F0%9F%91%8B;Full-Stack+Developer+%7C+Java+Specialist;Android+%26+Flutter+App+Developer;Building+Scalable+Apps+%26+Secure+APIs" 
