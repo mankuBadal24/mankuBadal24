@@ -6,7 +6,6 @@
   />
 </p>
 
-
 <h3 align="center">
   💻 Full-Stack Developer | Java • Android • Flutter • MERN
 </h3>
