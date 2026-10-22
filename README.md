@@ -122,7 +122,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=FE428E&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Manku;Building+things+that+ship;Always+learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=FE428E&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mayank_Badal;Building+things+that+ship;Always+learning" alt="Typing SVG" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=mankuBadal24&label=Profile+Views&color=FE428E&style=flat-square" alt="Profile views" />
